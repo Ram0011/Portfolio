@@ -47,9 +47,6 @@ const Navbar = ({ className }: { className?: string }) => {
                         >
                             Github
                         </HoveredLink>
-                        <HoveredLink href="/profile" target="_blank">
-                            About
-                        </HoveredLink>
                     </div>
                 </MenuItem>
                 <Link href={"#"}>
